@@ -48,11 +48,14 @@ University of Cyprus
 
 ## 🛠 Technical Skills
 
-Expert: Python, R
-Experienced: Java, C, C++, Data Analysis, Applied Statistics, Machine Learning, Neural Networks, Predictive Modeling, Power BI
-Skilful: JavaScript, HTML, CSS, OutSystems
-Beginner: Unity3D, Unreal Engine
+- **Expert:** Python, R  
 
+- **Experienced:** Java, C, C++, Data Analysis, Applied Statistics, Machine Learning, Neural Networks, Predictive Modeling, Power BI  
+
+- **Skilful:** JavaScript, HTML, CSS, OutSystems  
+
+- **Beginner:** Unity3D, Unreal Engine
+  
 ---
 
 ## 🚀 Selected Projects
