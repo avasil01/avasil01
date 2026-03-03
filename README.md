@@ -60,6 +60,45 @@ HTML | CSS | JavaScript
 Power BI | Unity3D | Unreal Engine | OutSystems  
 
 ---
+---
+
+## 💻 Bachelor Projects – University of Cyprus
+
+A collection of selected undergraduate projects demonstrating foundations in systems, graphics, AI, software engineering and parallel computing.
+
+### 🧠 Artificial Intelligence
+- [Project-ArtificialIntelligence](https://github.com/avasil01/Project-ArtificialIntelligence)  
+  Implementation of core AI algorithms and search techniques.
+
+### 🖥 Computer Architecture
+- [Project-ComputerArchitecture](https://github.com/avasil01/Project-ComputerArchitecture)  
+  Low-level systems programming and hardware-level concepts.
+
+### 🎨 Computer Graphics
+- [Project-ComputerGraphics](https://github.com/avasil01/Project-ComputerGraphics)  
+  Graphics programming and rendering fundamentals.
+
+### ⚡ Parallelism
+- [Project-Parallelism](https://github.com/avasil01/Project-Parallelism)  
+  OpenMP / multi-threading implementations and performance evaluation.
+
+### 🎮 Java Game Development
+- [Project-JavaGame](https://github.com/avasil01/Project-JavaGame)  
+  Object-oriented game development in Java.
+
+### 🧪 Software Quality & Maintenance
+- [Project-SoftwareQualityTestingMaintenance](https://github.com/avasil01/Project-SoftwareQualityTestingMaintenance)
+
+### 👩‍💻 Human Computer Interaction
+- [Project-HumanComputerInteraction](https://github.com/avasil01/Project-HumanComputerInteraction)
+
+### 🚀 Entrepreneurship & Innovation
+- [Project-EntrepreneurshipAndInnovation](https://github.com/avasil01/Project-EntrepreneurshipAndInnovation)
+
+### 📊 Project Management
+- [Project-ProjectManagement](https://github.com/avasil01/Project-ProjectManagement)
+
+---
 
 ## 🌍 Languages
 
