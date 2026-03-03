@@ -46,12 +46,11 @@ University of Cyprus
 
 ---
 
-## 🛠 Technical Skills
-
-**Programming:** Java | Python | C++ | C  
-**AI & Data Science:** Machine Learning | Neural Networks | Applied Statistics | Predictive Modeling  
-**Web Development:** HTML | CSS | JavaScript  
-**Tools & Technologies:** Power BI | Unity3D | Unreal Engine | OutSystems  
+🛠 Technical Skills
+Expert: Python, R
+Experienced: Java, C, C++, Data Analysis, Applied Statistics, Machine Learning, Neural Networks, Predictive Modeling, Power BI
+Skilful: JavaScript, HTML, CSS, OutSystems
+Beginner: Unity3D, Unreal Engine
 
 ---
 
