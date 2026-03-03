@@ -64,7 +64,7 @@ Below are selected academic and technical projects demonstrating systems program
   🔗 https://github.com/avasil01/AccoManager-DatabasesProject
 
 - **Desert Runner – Computer Graphics Project**  
-  Unity-based 2D game built in C#, implementing animation and gameplay mechanics.  
+  Unity-based 3D game built in C#, implementing animation and gameplay mechanics.  
   🔗 https://github.com/avasil01/DesertRunner-ComputerGraphicsProject
 
 - **GreenLight Studio – Software Engineering Project**  
