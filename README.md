@@ -58,8 +58,31 @@ HTML | CSS | JavaScript
 
 **Tools & Technologies:**  
 Power BI | Unity3D | Unreal Engine | OutSystems  
-
 ---
+
+## 🚀 Selected Projects
+
+Below are selected academic and technical projects demonstrating systems programming, software engineering, graphics, databases and applied data analysis.
+
+- **AccoManager – Databases Project**  
+  PHP-based accommodation management system with relational database design.  
+  🔗 https://github.com/avasil01/AccoManager-DatabasesProject
+
+- **Desert Runner – Computer Graphics Project**  
+  Unity-based 2D game built in C#, implementing animation and gameplay mechanics.  
+  🔗 https://github.com/avasil01/DesertRunner-ComputerGraphicsProject
+
+- **GreenLight Studio – Software Engineering Project**  
+  Full-stack web platform built with JavaScript and backend services.  
+  🔗 https://github.com/avasil01/GreenLightStudioWebsite-SoftwareEngineeringProject
+
+- **Learner Engagement Analysis – Data Analysis Project**  
+  CRISP-DM based statistical analysis implemented in R.  
+  🔗 https://github.com/avasil01/LearnerEngagementAnalysis-MathematicsAndStatisticsProject
+
+- **BMP Steganography – C Programming Project**  
+  Low-level image manipulation and steganography implementation in C.  
+  🔗 https://github.com/avasil01/BMPSteganography-ProgrammingProject
 ---
 
 ## 💻 Bachelor Projects – University of Cyprus
