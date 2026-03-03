@@ -1,4 +1,4 @@
-# Hi, I'm Anna Vasiliou
+# Hi, I'm Anna Vasiliou :)
 
 Computer Science graduate and MSc student in Data Science & Artificial Intelligence at Newcastle University.
 
