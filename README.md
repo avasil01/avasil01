@@ -2,14 +2,14 @@
 
 Computer Science graduate and MSc student in Data Science & Artificial Intelligence at Newcastle University.
 
-I am passionate about software engineering, data science, and AI-driven solutions that create real-world impact.
+I am passionate in designing data-driven systems, applying machine learning, and building scalable solutions that turn data into practical value.
 
 ---
 
 ## 🎓 Education
 
 - MSc in Data Science & Artificial Intelligence – Newcastle University (2025–2026)
-- BSc in Computer Science – University of Cyprus (CPA: 8.02/10)
+- BSc in Computer Science – University of Cyprus
 
 ---
 
@@ -71,4 +71,4 @@ Greek | English | French
 
 📍 United Kingdom / Cyprus  
 📧 annidiouss@gmail.com  
-🔗 LinkedIn: (add your link here)
+🔗 LinkedIn: https://www.linkedin.com/in/anna-vasiliou-5a730a248/
