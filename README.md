@@ -46,7 +46,8 @@ University of Cyprus
 
 ---
 
-🛠 Technical Skills
+## 🛠 Technical Skills
+
 Expert: Python, R
 Experienced: Java, C, C++, Data Analysis, Applied Statistics, Machine Learning, Neural Networks, Predictive Modeling, Power BI
 Skilful: JavaScript, HTML, CSS, OutSystems
