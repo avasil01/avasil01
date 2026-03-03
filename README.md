@@ -42,7 +42,7 @@ University of Cyprus
 - Accepted paper at IFIP I3E 2025  
 - Published in Springer LNCS  
 - Presented in Limassol, Cyprus  
-- 🔗 Project Repository: https://github.com/avasil01/DissertationProjectBsc
+- 🔗 GitHub Repository: [DissertationProjectBsc](https://github.com/avasil01/DissertationProjectBsc)
 
 ---
 
@@ -78,6 +78,7 @@ Below are selected academic and technical projects demonstrating systems program
 - **BMP Steganography – C Programming Project**  
   Low-level image manipulation and steganography implementation in C.  
   🔗 https://github.com/avasil01/BMPSteganography-ProgrammingProject
+  
 ---
 
 ## 💻 Bachelor Projects – University of Cyprus
