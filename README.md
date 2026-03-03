@@ -42,22 +42,17 @@ University of Cyprus
 - Accepted paper at IFIP I3E 2025  
 - Published in Springer LNCS  
 - Presented in Limassol, Cyprus  
+- 🔗 Project Repository: https://github.com/avasil01/DissertationProjectBsc
 
 ---
 
 ## 🛠 Technical Skills
 
-**Programming:**  
-Java | Python | C++ | C  
+**Programming:** Java | Python | C++ | C  
+**AI & Data Science:** Machine Learning | Neural Networks | Applied Statistics | Predictive Modeling  
+**Web Development:** HTML | CSS | JavaScript  
+**Tools & Technologies:** Power BI | Unity3D | Unreal Engine | OutSystems  
 
-**AI & Data Science:**  
-Machine Learning | Neural Networks | Applied Statistics | Predictive Modeling  
-
-**Web Development:**  
-HTML | CSS | JavaScript  
-
-**Tools & Technologies:**  
-Power BI | Unity3D | Unreal Engine | OutSystems  
 ---
 
 ## 🚀 Selected Projects
